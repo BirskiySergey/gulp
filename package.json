@@ -5,6 +5,7 @@
   "author": "Birskiy Sergey",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
